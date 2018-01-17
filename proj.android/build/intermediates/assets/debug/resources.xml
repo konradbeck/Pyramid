@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<resources>
+	<set path = "fonts" />
+	<font file="main.fnt" />	
+
+	<set path = "images\" />
+	<atlas>
+		<image file="bg.png"/>	
+		<image file="bg1.jpg"/>
+		<image file="bg2.png"/>
+
+		<image file="button.png"/>
+
+		<image id="lego1" file="Blue.png" />
+		<image id="lego2" file="Green.png" />
+		<image id="lego3" file="Red.png" />
+		<image id="lego4" file="Yellow.png" />
+		<image id="lego5" file="Orange.png" />
+
+		<set path = "images\jewels"/>	
+
+		<image id="black" file="black.png" />
+		<image id="choc" file="choc.jpg" />
+		<image id="choc1" file="choc1.png" />
+		<image id="choc2" file="choc2.png" />
+		<image id="choc3" file="choc3.png" />
+		<image id="choc4" file="choc4.png" />
+
+		<image id="jewel1" file="air.png" />
+		<image id="jewel2" file="coin.png" />
+		<image id="jewel3" file="earth.png" />
+		<image id="jewel4" file="fire.png" />
+		<image id="jewel5" file="water.png" />
+		<image id="jewel6" file="skull.png" />
+	</atlas>
+</resources>

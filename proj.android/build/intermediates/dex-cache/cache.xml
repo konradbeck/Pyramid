@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Development\Repos\oxygine-framework-with-sdl\oxygine-framework\examples\Pyramid\proj.android\build\intermediates\exploded-aar\proj.android\oxygine-extension\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="174019e3665f56b4a0c8981d7674a44856ce2125">
+        <dex dex="C:\Development\Repos\oxygine-framework-with-sdl\oxygine-framework\examples\Pyramid\proj.android\build\intermediates\pre-dexed\debug\proj.android-oxygine-extension-unspecified_8302bf2c536d0e5b058ffad48f7d761c7dc6ec2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Development\Repos\oxygine-framework-with-sdl\oxygine-framework\examples\Pyramid\proj.android\build\intermediates\exploded-aar\proj.android\oxygine-lib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bd3e8c20ff45f7231aacd883601702bac8fc4ce8">
+        <dex dex="C:\Development\Repos\oxygine-framework-with-sdl\oxygine-framework\examples\Pyramid\proj.android\build\intermediates\pre-dexed\debug\proj.android-oxygine-lib-unspecified_0da3e6b9a456980fa362f5200932663fac6695c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Development\Repos\oxygine-framework-with-sdl\oxygine-framework\examples\Match3\proj.android\build\intermediates\exploded-aar\proj.android\oxygine-lib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bd3e8c20ff45f7231aacd883601702bac8fc4ce8">
+        <dex dex="C:\Development\Repos\oxygine-framework-with-sdl\oxygine-framework\examples\Match3\proj.android\build\intermediates\pre-dexed\debug\proj.android-oxygine-lib-unspecified_ac58e7d6b27508047a560fcc75d09f4a3b289bba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Development\Repos\oxygine-framework-with-sdl\oxygine-framework\examples\Match3\proj.android\build\intermediates\exploded-aar\proj.android\oxygine-extension\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="174019e3665f56b4a0c8981d7674a44856ce2125">
+        <dex dex="C:\Development\Repos\oxygine-framework-with-sdl\oxygine-framework\examples\Match3\proj.android\build\intermediates\pre-dexed\debug\proj.android-oxygine-extension-unspecified_6985260f6fd5832b0d325eb4205404649b3b882e.jar" />
+    </item>
+
+</items>

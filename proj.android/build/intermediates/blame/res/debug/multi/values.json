@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "C:\\Development\\Repos\\oxygine-framework-with-sdl\\oxygine-framework\\examples\\Match3\\proj.android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "C:\\Development\\Repos\\oxygine-framework-with-sdl\\oxygine-framework\\examples\\Match3\\proj.android\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 43,
+                        "endOffset": 96
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Development\\Repos\\oxygine-framework-with-sdl\\oxygine-framework\\examples\\Pyramid\\proj.android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "C:\\Development\\Repos\\oxygine-framework-with-sdl\\oxygine-framework\\examples\\Pyramid\\proj.android\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 43,
+                        "endOffset": 96
+                    }
+                }
+            }
+        ]
+    }
+]
